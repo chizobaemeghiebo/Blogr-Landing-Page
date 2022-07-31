@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](blogr-landing-page-by-me.netlify.app)
+- Live Site URL: [Live site](blogr-landing-page-by-me.netlify.app)
 
 ### Built with
 
