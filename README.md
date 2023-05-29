@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site](blogr-landing-page-by-me.netlify.app)
+- Live Site URL: [Live site](https://xc-blogr-page.netlify.app)
 
 ### Built with
 
